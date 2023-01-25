@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "6db13c645065fa108d0a39ea87666d13e2e72855",
+    "name": "Light Mode",
+    "selectedTokenSets": {
+      "colors-global": "enabled",
+      "white-theme": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
