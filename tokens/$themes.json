@@ -4,7 +4,8 @@
     "name": "Light Mode",
     "selectedTokenSets": {
       "colors-global": "enabled",
-      "white-theme": "enabled"
+      "white-theme": "enabled",
+      "text-styles": "disabled"
     },
     "$figmaStyleReferences": {}
   }

@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "colors-global",
-    "white-theme"
+    "white-theme",
+    "text-styles"
   ]
 }
