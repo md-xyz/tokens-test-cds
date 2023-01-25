@@ -5,7 +5,8 @@
     "selectedTokenSets": {
       "colors-global": "enabled",
       "white-theme": "enabled",
-      "hover-colors-global": "disabled"
+      "text-styles": "enabled",
+      "hover-colors-global": "enabled"
     },
     "$figmaStyleReferences": {}
   }

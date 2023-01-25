@@ -349,7 +349,7 @@
   },
   "Button": {
     "$button-primary": {
-      "value": "#0f62fe",
+      "value": "{Blue.60}",
       "type": "color",
       "description": "v10: $interactive-01"
     },
